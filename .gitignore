@@ -1,0 +1,5 @@
+.env
+*.pdf
+*.json
+/doc_db
+/groqminechat
